@@ -2,23 +2,23 @@
 
 namespace Kaareln\SVGPathData\Attributes;
 
-use SVG\Attributes\PathData\ArcCurve;
-use SVG\Attributes\PathData\BezierCurve;
-use SVG\Attributes\PathData\ClosePath;
-use SVG\Attributes\PathData\HorizontalLine;
-use SVG\Attributes\PathData\Line;
-use SVG\Attributes\PathData\Move;
-use SVG\Attributes\PathData\PathDataCommandInterface;
-use SVG\Attributes\PathData\QuadraticCurve;
-use SVG\Attributes\PathData\RelativeArcCurve;
-use SVG\Attributes\PathData\RelativeBezierCurve;
-use SVG\Attributes\PathData\RelativeHorizontalLine;
-use SVG\Attributes\PathData\RelativeLine;
-use SVG\Attributes\PathData\RelativeMove;
-use SVG\Attributes\PathData\RelativeQuadraticCurve;
-use SVG\Attributes\PathData\RelativeVerticalLine;
-use SVG\Attributes\PathData\VerticalLine;
-use SVG\Attributes\SVGPathData;
+use Kaareln\SVGPathData\Attributes\PathData\ArcCurve;
+use Kaareln\SVGPathData\Attributes\PathData\BezierCurve;
+use Kaareln\SVGPathData\Attributes\PathData\ClosePath;
+use Kaareln\SVGPathData\Attributes\PathData\HorizontalLine;
+use Kaareln\SVGPathData\Attributes\PathData\Line;
+use Kaareln\SVGPathData\Attributes\PathData\Move;
+use Kaareln\SVGPathData\Attributes\PathData\PathDataCommandInterface;
+use Kaareln\SVGPathData\Attributes\PathData\QuadraticCurve;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeArcCurve;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeBezierCurve;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeHorizontalLine;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeLine;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeMove;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeQuadraticCurve;
+use Kaareln\SVGPathData\Attributes\PathData\RelativeVerticalLine;
+use Kaareln\SVGPathData\Attributes\PathData\VerticalLine;
+use Kaareln\SVGPathData\Attributes\SVGPathData;
 
 class SVGPathDataTest extends \PHPUnit\Framework\TestCase
 {
