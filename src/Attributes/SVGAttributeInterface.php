@@ -1,6 +1,6 @@
 <?php
 
-namespace SVG\Attributes;
+namespace Kaareln\SVGPathData\Attributes;
 
 interface SVGAttributeInterface
 {

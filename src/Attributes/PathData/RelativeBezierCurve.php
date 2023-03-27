@@ -1,6 +1,6 @@
 <?php
 
-namespace SVG\Attributes\PathData;
+namespace Kaareln\SVGPathData\Attributes\PathData;
 
 /**
  * @see https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths#b%C3%A9zier_curves

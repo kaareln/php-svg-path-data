@@ -1,6 +1,6 @@
 <?php
 
-namespace SVG\Attributes;
+namespace Kaareln\SVGPathData\Attributes;
 
 use SVG\Attributes\PathData\ArcCurve;
 use SVG\Attributes\PathData\BezierCurve;

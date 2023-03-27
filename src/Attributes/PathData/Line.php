@@ -1,6 +1,6 @@
 <?php
 
-namespace SVG\Attributes\PathData;
+namespace Kaareln\SVGPathData\Attributes\PathData;
 
 class Line extends Move
 {
