@@ -3,7 +3,7 @@
     "homepage": "https://github.com/kaareln/php-svg-path-data",
     "type": "library",
     "description": "Add SVG Path Data with object oriented structure",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "keywords": ["SVG","SVG Path","PHP SVG"],
     "authors": [
